@@ -16,7 +16,7 @@ apply_url: "#"
 ---
 ### About Course
 
-An in depth analysis of any aspect of Physics, tailored individually to the student.</p>
+GCSE/A-Level/University Physics, tailored individually to the student.</p>
 
 ### Requirements
 
