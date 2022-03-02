@@ -3,30 +3,27 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Preparing for Your Future
+    content: We provide high quality teaching at all levels in order to provide students
+      with the best opportunity to excel in their chosen subject.
     animation_in: left
     animation_out: right
     button:
       enable: true
       label: Apply now
       link: contact/
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: 'An Insight into Cambridge Excellence '
+    content: Our teachers aim to provide a unique insight into teaching and supervision
+      at Cambridge University.
     animation_in: left
     animation_out: right
     button:
       enable: true
       label: Apply now
       link: contact/
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Tailored to You
+    content: 'Our goal is to provide students with a comfortable and rewarding teaching
+      experience tailored to the individual. '
     animation_in: left
     animation_out: right
     button:
