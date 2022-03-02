@@ -14,14 +14,14 @@ fee: 'From: £100 per hour'
 apply_url: "#"
 
 ---
-### About Course
+### About:
 
 GCSE/A-Level/University Physics, tailored individually to the student.</p>
 
-### Requirements
+### Requirements:
 
 * A keen interest in the subject area.
 
-### How to Apply
+### How to Apply:
 
 * Contact via either phone or email.
