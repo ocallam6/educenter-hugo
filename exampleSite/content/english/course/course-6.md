@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 image: "/images/istockphoto-497130603-612x612.jpg"
-category: Photography
+category: Physics
 teacher: Matthew O'Callaghan
 duration: Tailored to individual
 weekly: 1-3
