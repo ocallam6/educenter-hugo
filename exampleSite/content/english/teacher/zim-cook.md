@@ -18,7 +18,7 @@ interest:
 contact:
 - name: mo503@cam.ac.uk
   icon: ti-email
-  link: email:mo503@cam.ac.uk
+  link: mailto:mo503@cam.ac.uk
 - name: "+44 7751597143"
   icon: ti-mobile
   link: tel:+44 7751597143
