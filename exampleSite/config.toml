@@ -94,10 +94,10 @@ address = "Cambridge, UK"
 author = "Themefisher"
 contact_form_action = "#"
 description = "Tutoring School"
-email = "mo503@cam.ac.uk"
+email = "info.cebmo@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo4.jpg"
-mobile = "+44 7751597143"
+mobile = ""
 top_header = true
 [params.cookies]
 enable = true
