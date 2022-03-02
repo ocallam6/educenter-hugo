@@ -5,14 +5,11 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 image: "/images/pastedgraphic-2.jpg"
-course: Photography
+course: 'Mathematics, Physics, Artificial Intelligence '
 bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur
   ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,
   culpa aspernatur. Error placeat iusto officia voluptas quae.
-interest:
-- Computer Networking
-- Computer Security
-- Human Computer Interfacing
+interest: []
 contact:
 - name: mo503@cam.ac.uk
   icon: ti-email
