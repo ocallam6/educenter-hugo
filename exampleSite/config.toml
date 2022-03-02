@@ -100,7 +100,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "mo503@cam.ac.uk"
 google_analitycs_id = ""
-logo = "images/logo1.jpg"
+logo = "images/logo2.jpg"
 mobile = "+44 7751597143"
 top_header = true
 [params.cookies]
