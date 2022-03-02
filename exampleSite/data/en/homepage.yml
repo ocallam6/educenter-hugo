@@ -13,8 +13,7 @@ slider:
       label: Apply now
       link: contact/
   - title: 'An Insight into Cambridge Excellence '
-    content: Our teachers aim to provide a unique insight into teaching and supervision
-      at Cambridge University.
+    content: Our teachers are have all graduated from Cambridge University.
     animation_in: left
     animation_out: right
     button:
