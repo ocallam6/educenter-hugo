@@ -100,7 +100,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "mo503@cam.ac.uk"
 google_analitycs_id = ""
-logo = "images/matt-s-maths-logos.jpeg"
+logo = "images/screenshot-2022-03-02-at-14-47-55.png"
 mobile = "+44 7751597143"
 top_header = true
 [params.cookies]
