@@ -111,7 +111,7 @@ enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=ACT90oFeqsRXsuUqrTPFblMs_ZMixCpkCw&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
+map_marker = "images/matt-s-maths-logos.jpeg"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
