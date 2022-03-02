@@ -1,5 +1,5 @@
 baseURL = "https://matthewocallaghan.netlify.app"
-disableLanguages = []
+disableLanguages = ['Fr']
 disqusShortname = "Matthew's Cambridge Tutoring"
 paginate = "6"
 summaryLength = "10"
@@ -15,10 +15,6 @@ weight = 1
 [[Languages.en.menu.footer]]
 name = "teacher"
 url = "teacher/"
-[[Languages.en.menu.main]]
-name = "About"
-url = "about/"
-weight = 1
 [[Languages.en.menu.main]]
 name = "course"
 url = "course/"
