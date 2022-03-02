@@ -6,10 +6,15 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   nostrud.
 image: "/images/pastedgraphic-2.jpg"
 course: 'Mathematics, Physics, Artificial Intelligence '
-bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur
-  ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,
-  culpa aspernatur. Error placeat iusto officia voluptas quae.
-interest: []
+bio: |-
+  Matthew O'Callaghan (BA, MA, MASt).
+  PhD student at Cambridge University.
+interest:
+- Sport
+- Machine Learning
+- Physics
+- Astrophysics
+- Mathematics
 contact:
 - name: mo503@cam.ac.uk
   icon: ti-email
