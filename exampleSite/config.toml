@@ -30,7 +30,7 @@ url = "teacher/"
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 5
+weight = 4
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
