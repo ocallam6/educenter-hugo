@@ -16,12 +16,9 @@ interest:
 - Astrophysics
 - Mathematics
 contact:
-- name: mo503@cam.ac.uk
+- name: info.cebmo@gmail.com
   icon: ti-email
-  link: mailto:mo503@cam.ac.uk
-- name: "+44 7751597143"
-  icon: ti-mobile
-  link: tel:+44 7751597143
+  link: mailto:info.cebmo@gmail.com
 
 ---
 ### About Me
