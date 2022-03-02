@@ -54,20 +54,19 @@ about:
   enable: true
   title: 'About Matthew '
   image: "/images/pastedgraphic-2.jpg"
-  content: "Matthew O'Callaghan is a PhD researcher at Cambridge University. He began
-    his undergraduate degree at Trinity College where he was awarded a Gold Medal
-    for academic excellence. Following this he completed the Part III masters at Cambridge
-    University (often considered to be the most difficult mathematics course in the
-    world) and achieved a Distinction for his masters thesis on differential geometry
-    and mathematical physics. \n\nMatthew has been tutoring mathematics and physics
-    since 2015 at a very high level. His students tend to be ambitious and interested,
-    with a keen willingness to work and understand the content to a high degree. Many
-    of his students are in high school or university and the courses they cover range
-    from university level mathematics to local exam preparation. His students proceed
-    to fantastic universities, such as Oxbridge, Ivy League and other top universities
-    in their respective countries.  Matthew aims to make very enjoyable classes which
-    will shape students into brilliant mathematicians and physicists and prepare them
-    for a career in the field or to excel at examination."
+  content: "Matthew O'Callaghan is a PhD researcher at the University of Cambridge.
+    He began his undergraduate degree at Trinity College where he was awarded a Gold
+    Medal for academic excellence. Following this he completed the Part III masters
+    at the University of Cambridge and achieved a Distinction for his masters thesis
+    on differential geometry and mathematical physics. \n\nMatthew has been tutoring
+    mathematics and physics since 2015 at a very high level. His students tend to
+    be ambitious and interested, with a keen willingness to work and understand the
+    content to a high degree. Many of his students are in high school or university
+    and the courses they cover range from university level mathematics to local exam
+    preparation. His students proceed to fantastic universities, such as Oxbridge,
+    Ivy League and other top universities in their respective countries.  Matthew
+    aims to make very enjoyable classes which will shape students into brilliant mathematicians
+    and physicists and prepare them for a career in the field or to excel at examination."
   button:
     enable: true
     label: Learn more
