@@ -15,18 +15,6 @@ weight = 1
 [[Languages.en.menu.footer]]
 name = "teacher"
 url = "teacher/"
-[[Languages.en.menu.footer]]
-name = "notice"
-url = "notice/"
-[[Languages.en.menu.footer]]
-name = "event"
-url = "event/"
-[[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship/"
-[[Languages.en.menu.footer]]
-name = "research"
-url = "research/"
 [[Languages.en.menu.main]]
 name = "About"
 url = "about/"
@@ -43,26 +31,6 @@ weight = 3
 name = "teacher"
 parent = "Pages"
 url = "teacher/"
-[[Languages.en.menu.main]]
-name = "notice"
-parent = "Pages"
-url = "notice/"
-[[Languages.en.menu.main]]
-name = "event"
-parent = "Pages"
-url = "event/"
-[[Languages.en.menu.main]]
-name = "scholarship"
-parent = "Pages"
-url = "scholarship/"
-[[Languages.en.menu.main]]
-name = "research"
-parent = "Pages"
-url = "research/"
-[[Languages.en.menu.main]]
-name = "blog"
-url = "blog/"
-weight = 4
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
