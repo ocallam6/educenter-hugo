@@ -79,7 +79,7 @@ course:
   enable: true
   title: Our Subjects
 cta:
-  enable: true
+  enable: false
   subtitle: Click to Join the Advance Workshop
   title: Training In Advannce Networking
   button:
@@ -96,10 +96,10 @@ success_story:
     ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
   video_link: https://www.youtube.com/watch?v=ResipmZmpDU
 event:
-  enable: true
+  enable: false
   title: Upcoming Events
 funfacts:
-  enable: true
+  enable: false
   funfact_item:
   - name: TEACHERS
     count: "60"
@@ -110,5 +110,5 @@ funfacts:
   - name: SATISFIED CLIENT
     count: "1400"
 blog:
-  enable: true
+  enable: false
   title: Latest News
