@@ -7,10 +7,10 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   nostrud.
 image: "/images/istockphoto-966248982-612x612.jpg"
 category: Artificial Intelligence
-teacher: Alex Rook
-duration: 06 Month
-weekly: 03 hours
-fee: 'From: $699'
+teacher: Matthew O'Callaghan
+duration: Tailored to Student
+weekly: 1-3
+fee: 'From: £100 per hour'
 apply_url: "#"
 
 ---
