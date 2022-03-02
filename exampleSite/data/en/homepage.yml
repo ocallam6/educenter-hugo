@@ -4,8 +4,9 @@ slider:
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: Preparing for Your Future
-    content: We provide high quality teaching at all levels in order to provide students
-      with the best opportunity to excel in their chosen subject.
+    content: We provide high quality online and in-person teaching at all levels in
+      order to provide students with the best opportunity to excel in their chosen
+      subject.
     animation_in: left
     animation_out: right
     button:
