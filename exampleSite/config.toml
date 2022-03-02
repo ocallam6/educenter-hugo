@@ -1,6 +1,6 @@
 baseURL = "https://matthewocallaghan.netlify.app"
 disableLanguages = []
-disqusShortname = "educenter"
+disqusShortname = "Matthew's Cambridge Tutoring"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
