@@ -16,17 +16,13 @@ weight = 1
 name = "teacher"
 url = "teacher/"
 [[Languages.en.menu.main]]
-name = "course"
+name = "courses"
 url = "course/"
 weight = 2
 [[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[Languages.en.menu.main]]
-name = "teacher"
-parent = "Pages"
+name = "teachers"
 url = "teacher/"
+weight=3
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
