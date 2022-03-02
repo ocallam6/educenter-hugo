@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence
+title: Machine Learning
 date: 
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
