@@ -7,10 +7,10 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   nostrud.
 image: "/images/istockphoto-925167552-612x612.jpg"
 category: Mathematics
-teacher: Jacke Mastio
-duration: 06 Month
-weekly: 03 hours
-fee: 'From: $699'
+teacher: 'Matthew O''Callaghan '
+duration: Tailored to student
+weekly: 1-3
+fee: 'From: £100 per hour'
 apply_url: "#"
 
 ---
