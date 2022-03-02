@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-date: 2019-07-06T15:27:17.000+06:00
+date: 
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -16,7 +16,7 @@ apply_url: "#"
 ---
 ### About Course
 
-An in depth analysis of any aspect of Mathematics, tailored individually to the student.</p>
+GCSE/A-Level/University Mathematics, tailored individually to the student.</p>
 
 ### Requirements
 
