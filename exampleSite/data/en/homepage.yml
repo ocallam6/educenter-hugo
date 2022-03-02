@@ -56,7 +56,7 @@ banner_feature:
 about:
   enable: true
   title: 'About Matthew '
-  image: images/about/about-us.jpg
+  image: "/images/img_0478.heic"
   content: "Matthew O'Callaghan is a PhD researcher at Cambridge University. He began
     his undergraduate degree at Trinity College where he was awarded a Gold Medal
     for academic excellence. Following this he completed the Part III masters at Cambridge
