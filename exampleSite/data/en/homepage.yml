@@ -86,12 +86,11 @@ cta:
 success_story:
   enable: true
   bg_image: images/backgrounds/success-story.jpg
-  title: Success Stories
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-
-    ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-  video_link: https://www.youtube.com/watch?v=ResipmZmpDU
+  title: Ethos
+  content: Our goal is to provide students with the skills and knowledge necessary
+    for them to excel at whatever point of their life they are in. The majority of
+    our classes are tailor made to ensure each student makes the most out of the experience.
+  video_link: ''
 event:
   enable: false
   title: Upcoming Events
